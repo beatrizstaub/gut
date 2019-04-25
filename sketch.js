@@ -4,7 +4,7 @@ let gut_img;
 
 
 function preload(){
-   gut_img = loadImage("gut.png")
+   gut_img = loadImage("gut.PNG")
    gut_blue = loadImage("blue.png")
    gut_green = loadImage("green.png")
    gut_pink = loadImage("pink.png")
